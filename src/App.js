@@ -1,5 +1,5 @@
 import React, { useReducer, useState } from 'react'; 
- 
+ // Paso 14: cambio de Alex Perales para el PR del laboratorio DevOps Testing
 import logo from './logo.svg';
 import './App.css';
 
